@@ -58,4 +58,5 @@ Unlicensed – free to use, modify, and share. Don't commercialize it.
 ## 👤 Author
 
 xolossus 
+
 Designed for a cleaner viewing experience on Twitch.
