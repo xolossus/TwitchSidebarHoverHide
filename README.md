@@ -53,10 +53,10 @@ The script adds a small CSS rule and a few event handlers that:
 
 ## 📜 License
 
-Unlicensed – free to use, modify, and share. Don't commercialize it.
+[MIT License](LICENSE)
 
 ## 👤 Author
 
-xolossus 
+xolossus
 
-Designed for a cleaner viewing experience on Twitch.
+Designed for a seamless quality viewing experience.
